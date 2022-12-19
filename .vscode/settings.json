@@ -1,0 +1,7 @@
+{
+    "robloxLsp.diagnostics.globals": [
+        "runScriptForSpesificID",
+        "Options",
+        "Toggles"
+    ]
+}
