@@ -34,7 +34,7 @@ PlayerESPManager.Settings = {
 		OutlineColor = Color3.fromRGB(255, 255, 255),
 		FillTransparency = 0.5,
 		OutlineTransparency = 0
-	},
+	}
 }
 
 function PlayerESPManager:SetLibrary(library)
